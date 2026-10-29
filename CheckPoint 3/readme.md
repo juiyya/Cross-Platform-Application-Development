@@ -47,8 +47,9 @@ Checkpoint 3/
 ```
 
 ## prints
-
+### Lista de séries
 ![Lista de séries](./prints/lista.png)
+### Detalhe com episódios
 ![Detalhe com episódios](./prints/detalhe.png)
 
 ## como rodar
